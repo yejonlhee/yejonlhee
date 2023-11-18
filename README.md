@@ -1,4 +1,10 @@
-### hi my name is yejin! my friends and i wanted to try something new and signed up for a beginner hackathon. 
+### hi my name is yejin! 
+
+# about me
+i am a 4th year biochemistry student at the university of british columbia. 
+i'm interested in videography, graphic design, and science communication!
+
+
 
 <!--
 **yejonlhee/yejonlhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
