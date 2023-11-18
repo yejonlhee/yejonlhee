@@ -1,4 +1,4 @@
-### Hi there 👋 My name is yejin
+### Hi there 👋 My name is yejin!
 
 <!--
 **yejonlhee/yejonlhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
