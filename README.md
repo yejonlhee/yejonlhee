@@ -1,6 +1,6 @@
 ### hi my name is yejin! 
 
-# about me
+#### about me
 i am a 4th year biochemistry student at the university of british columbia. 
 i'm interested in videography, graphic design, and science communication!
 
