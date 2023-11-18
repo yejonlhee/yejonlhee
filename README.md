@@ -1,6 +1,6 @@
 ### hi my name is yejin! my friends and i wanted to try something new and signed up for a beginner hackathon. 
 
-<!--
+
 **yejonlhee/yejonlhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
